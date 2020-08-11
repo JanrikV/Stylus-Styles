@@ -1,0 +1,95 @@
+@-moz-document domain("www.feralhosting.com"), domain(network.feral.io) {
+ 
+body, main, article, details, code, samp, kbd, h1 {
+    background: #272727 !important;
+    color: #d0d0d0;
+    border-color: #fff;
+}
+
+#header a {
+    text-decoration: none;
+    color: #428815 !important;
+    display: block;
+    padding: 1em 0;
+}
+
+#header .tab > a {
+    color: #FFF !important;
+}
+
+h1, h2, h3, h4 {
+    color: #428815 !important;
+}
+
+a {
+    color: #52B712;
+}
+
+a:visited {
+    color: #41a202; 
+}
+
+input, textarea {
+    background-color: #0000009c;
+    color: #fff;
+    border: none;
+}
+
+pre > code, pre > samp, pre > kbd, blockquote, #footer {
+    background: #373737;
+}
+
+thead, tfoot {
+    background-color: #0000009c;
+}
+
+tbody > tr:nth-child(2n) {
+    background-color: #373737;
+}
+
+tbody > tr:hover { 
+    background-color: #272727 !important; 
+}
+
+
+aside.alert.note {
+    background-color: #131313;
+}
+
+ol.ticket_view > li > dl > dt {
+    background-color: #2f4027;
+}
+
+.hl-error {
+    background-color: #8a4747 !important;
+}
+
+.hl-success {
+    background-color: #1e551e !important;
+}
+
+.hl-success, .hl-warning, .hl-error {
+    border-radius: 0em !important;
+}
+
+details.toc, details#toc {
+    border: none !important;
+    background: #313131b3 !important;
+    padding: 10px 0 10px 0;
+}
+
+details.toc > summary {
+    font-weight: bold;
+    padding: 0 1em;
+}
+
+details.toc > li {
+    margin-left: 1.5em;
+}
+
+.toc ul, .toc ol {
+    list-style-position: inside;
+    margin: 0 0 0 1em;
+}
+
+}
