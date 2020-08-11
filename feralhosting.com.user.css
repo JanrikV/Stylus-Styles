@@ -36,7 +36,7 @@ input, textarea {
 }
 
 pre > code, pre > samp, pre > kbd, blockquote, #footer {
-    background: #373737;
+    background-color: #373737;
 }
 
 thead, tfoot {
