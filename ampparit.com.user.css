@@ -1,0 +1,421 @@
+@-moz-document domain("www.ampparit.com") {
+
+/* START: ampparit.com */
+    
+body.th-classic {
+    color: #FFF !important;
+    background-color: #272727 !important;
+}
+        
+.th-classic .top-menu__container_outer {
+    background-color: #151515 !important;
+}
+        
+.th-classic .menu-content {
+    background-color: #151515 !important;
+}
+        
+.menu-content {
+    background-color: #151515 !important;
+    margin-bottom: 10px;
+}
+        
+.th-classic .button {
+    background: #292929;
+    color: #FFFFFF !important;
+}
+        
+.th-classic .quickfilter .Dropdown-root.is-open {
+    background-color: #292929;
+}
+
+.th-classic .Dropdown-root.is-open {
+    border: 1px solid #080808;
+    background-color: #FFFFFF;
+}
+        
+.th-classic .Dropdown-root {
+    color: #A9A9A9;
+    border: 1px solid #A9A9A9;
+}
+            
+.th-classic .Dropdown-root.is-open {
+    border: 1px solid #080808;
+    background-color: #151515;
+}
+    
+.th-classic .menu-item__row--active {
+    background-color: #428815 !important;
+    color: #FFF;
+}
+    
+.th-classic .menu-item__row {
+    background-color: #151515;
+}
+
+.th-classic .menu-item__row:hover {
+    background-color: #151515;
+}
+        
+.th-classic .sidebox .sidebox-header {
+    background-color: #428815;
+    color: #FFFFFF;
+}
+        
+.th-classic .menu-item__link, .th-classic .menu-item__link:visited, .th-classic .menu-item__link:active, .th-classic .menu-item__link:focus {
+    color: #ffffff;
+}
+        
+.th-classic .footer {
+    background-color: #151515;
+}
+        
+.th-classic .item .item-content a:visited {
+    color: #428815;
+}
+        
+.th-classic .item .item-content h4 a {
+    color: #428815;
+}
+    
+.th-classic .item .item-content a, .th-classic .item .item-content a:hover {
+    color: #428815;
+}
+    
+.item .item-content a:visited {
+    color: #428815;
+}
+   
+.item .item-content h4 a {
+    color: #428815;
+}
+       
+.th-classic .time-label {
+    background: #151515;
+}
+        
+@media only screen and (min-width: 587px) {
+.th-classic .items-list-header {
+    background-color: #151515;
+    border-bottom: none !important;
+  }
+}
+        
+@media only screen and (min-width: 587px) {
+.items-list-header {
+    background-color: #FFFFFF;
+    border-bottom: none !important;
+    position: relative;
+    min-height: 38px;
+  }
+}
+        
+@media only screen and (min-width: 587px) {
+.th-classic .items-queue__content_new-items {
+    background: #151515;
+  }
+}
+        
+.th-classic .items-list-header {
+    background: #151515;
+}
+        
+.th-classic .items-list-header-text {
+    color: #FFFFFF;
+}
+        
+.th-classic .item .item-content .item-vote-container .item-votes {
+    color: #FFFFFF;
+}
+        
+.th-classic .item .item-content .item-clicks {
+    color: #ffffff;
+}
+        
+.th-classic .item-time {
+    color: #FFFFFF;
+}
+        
+.th-classic .more-items-button {
+    background: #151515;
+}
+        
+.th-classic .ad-list .ad-slot_placeholder {
+    background-color: #151515;
+}
+    
+.ad-list .ad-slot_placeholder {
+    background-color: #151515;
+}
+        
+.th-classic .sidebox .sidebox-content {
+    background-color: #151515;
+}
+        
+.th-classic .blacklist-toggle {
+    color: #FFFFFF;
+}
+        
+.th-classic tr.thead, .th-classic thead tr:first-child {
+    color: #FFFFFF;
+    background-color: #272727;
+    border-bottom: 1px solid #9A9688;
+}
+        
+.th-classic .top-tags__pinned-table tbody tr, .th-classic .top-tags__rest-table tbody tr {
+    background-color: #272727;
+}
+        
+.top-tags__pinned-table tbody tr, .top-tags__rest-table tbody tr {
+    background-color: #272727;
+}
+       
+.th-classic .simple-item a:visited {
+    color: #428815;
+}
+        
+.th-classic a, .th-classic a:hover, .th-classic a:visited, .th-classic a:focus, .th-classic a:active {
+    color: #428815;
+}
+        
+.th-classic .simple-item a {
+    color: #428815;
+}
+           
+.th-classic .item .item-outer-wrapper {
+    background-color: #151515;
+    border-bottom: 1px solid #E3E3DB;
+}
+    
+.th-classic .menu-item__row--active .menu-item__link-text {
+    color: #FFFFFF;
+}
+    
+.th-classic #namedays .sidebox-content {
+    color: #fff;
+}
+    
+.th-classic .simple-item a:hover {
+    color: #777777 !important;
+}
+    
+.th-classic .simple-item a:visited {
+    color: #777777 !important;
+}
+    
+.th-classic .simple-item a:focus {
+    color: #777777 !important;
+}
+    
+.th-classic .simple-item:hover {
+    background: #151515 !important;
+}
+    
+.th-classic .item .item-content a:visited {
+    color: #777;
+}
+    
+.th-classic .main-navigation li.active {
+    border-bottom: 3px solid #428815 !important;
+}
+    
+.th-classic .main-navigation li.active a {
+    color: #428815 !important;
+}
+    
+.th-classic .item-details__detail_source {
+    color: #FFFFFF;
+}
+    
+.th-classic .social-media-feedback-link {
+    background: #151515;
+}
+    
+    
+/* ampparit.com/tv */
+    
+.th-classic .arrow-selectors .arrow__selector_left {
+    border-left: 1px solid #A9A9A9;
+}
+    
+.th-classic .arrow-selectors .arrow__selector {
+    color: #A9A9A9;
+    background: #282828;
+    border-top: 1px solid #A9A9A9;
+    border-bottom: 1px solid #A9A9A9;
+}
+    
+.th-classic .television-controls__dropdowns {
+    color: #A9A9A9;
+}
+    
+.th-classic .content, .th-classic .content-top {
+    background: #151515;
+}
+    
+.th-classic .arrow-selectors .arrow__selector_right {
+    border-right: 1px solid #A9A9A9;
+}
+
+.th-classic .arrow-selectors .arrow__selector {
+    color: #A9A9A9;
+    background: #282828;
+    border-top: 1px solid #A9A9A9;
+    border-bottom: 1px solid #A9A9A9;
+}
+    
+.th-classic .television-controls__program-filters .time-slot {
+    background-color: #000000;
+    color: #D7D7D7;
+}
+    
+.th-classic .television-controls__program-filters .time-slot_active {
+    background-color: #BBBBBB;
+    color: #000000;
+}
+    
+.th-classic .television-controls__program-filters .time-slot__arrow_active {
+    border-top-color: #BBBBBB;
+}
+    
+.th-classic .television-controls__program-filters .tv-text-filter {
+    border: 1px solid #A9A9A9;
+}
+    
+.th-classic .television-controls__program-filters .tv-text-filter__search-icon {
+    color: #A9A9A9;
+}
+    
+.th-classic .television-controls__program-filters .tv-text-filter__filter-input {
+    color: #A9A9A9;
+}
+
+.th-classic .programming .program-wrapper:nth-child(odd) {
+    background-color: #282828;
+}
+    
+.th-classic .programming .channel:nth-child(even) .current {
+    background-color: #428815;
+}
+    
+.th-classic .programming .channel:nth-child(2n+1) .current {
+    background-color: #428815;
+}
+    
+
+/* ampparit.com/saa */
+    
+.th-classic .weather-day-selector .weather-day.active time {
+    color: #428815;
+}
+
+.th-classic .weather-day-selector .weather-day.active {
+    background: #151515;
+}
+    
+.th-classic .weather-day-selector {
+    background: #151515;
+}
+    
+.th-classic .weather-day-selector .weather-day time {
+    color: #FFFFFF;
+}
+    
+.th-classic .carousel-right {
+    background: -webkit-gradient(linear, left top, right top, from(rgba(240,239,228,0)), color-stop(30%, #151515));
+    background: linear-gradient(to right, rgba(240,239,228,0) 0%, #151515 30%);
+}
+    
+.carousel-right {
+    background: -webkit-gradient(linear, left top, right top, from(rgba(240,239,228,0)), color-stop(30%, #151515));
+    background: linear-gradient(to right, rgb(21, 21, 21) 0%, #151515 30%);
+}
+    
+.th-classic .horizontal-list li.active .horizontal-list-item {
+    color: #428815;
+    border-bottom: 2px solid #428815;
+}
+    
+.th-classic .weather-location-actions .action-button > span {
+    background: #272727;
+    color: #FFFFFF;
+}
+    
+.th-classic .weather-container .weather-main-container .weather-hour .weather-lighter, .th-classic .weather-container .weather-main-container .weather-hourly-header .weather-lighter {
+    color: #428815;
+}
+    
+    
+/* ampparit.com/urheilu */
+    
+.th-classic .items-list-sub-categories {
+    background: #151515;
+}
+    
+.th-classic .items-list_category-content {
+    background: #151515;
+    border-bottom: 1px solid #E3E3DB;
+}
+    
+.th-classic .category-switch__label, .th-classic .category-switch__label:visited {
+    color: #FAFAFA;
+}
+    
+.th-classic .sports-controls {
+    background: #151515;
+    color: #A9A9A9;
+}
+    
+.th-classic .score-table tr {
+    background: #272727;
+}
+    
+.th-classic .score-table__league-divider td, .th-classic .score-table__league-divider:hover td {
+    background: #383838!important;
+    color: #D7D7D7;
+}
+    
+.th-classic .score-table tr:nth-child(even) {
+    background-color: #282828;
+}
+    
+.th-classic tr:nth-child(even) {
+    background-color: #383838;
+}
+    
+.th-classic .score-table tr {
+    background: #383838;
+}
+    
+.th-classic .sports-header {
+    background: #151515;
+}
+    
+.th-classic .navigation li.active {
+    background-color: #151515;
+}
+
+.th-classic .navigation li {
+    background-color: #151515;
+}
+    
+.carousel-container {
+    background-color: #151515;
+}
+    
+.th-classic .navigation a, .th-classic .navigation a:visited, .th-classic .navigation a:active, .th-classic .navigation input {
+    color: #FFFFFF;
+}
+    
+.th-classic .navigation li.active a {
+    color: #428815;
+    border-bottom: 2px solid #428815;
+}
+    
+.th-classic tr.thead, .th-classic thead tr:first-child {
+    color: #FFFFFF;
+    background-color: #37650B;
+    border-bottom: 1px solid #9A9688;
+}
+    
+}
