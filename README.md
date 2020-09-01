@@ -12,7 +12,7 @@ Download for:
 
 ## Example
 
-<a href="https://raw.githubusercontent.com/JanrikV/Stylus-Styles/master/images/ampparit.png" target="_blank">
+<a href="https://raw.githubusercontent.com/JanrikV/Stylus-Styles/master/images/ampparit.png">
    <img src="https://raw.githubusercontent.com/JanrikV/Stylus-Styles/master/images/ampparit.png" width="400" height="500" title="Click me!" />
 </a>
 
