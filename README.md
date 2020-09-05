@@ -10,7 +10,7 @@ Download for:
 [Opera](https://addons.opera.com/en/extensions/details/stylus/)
 
 
-## Example
+## Examples
 
 ### Ampparit
 <a href="https://raw.githubusercontent.com/JanrikV/Stylus-Styles/master/images/ampparit.png">
